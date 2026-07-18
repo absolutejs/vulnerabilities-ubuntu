@@ -1,6 +1,6 @@
 {
   "name": "@absolutejs/vulnerabilities-ubuntu",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Canonical Ubuntu OSV advisory ingestion for AbsoluteJS vulnerability management.",
   "type": "module",
   "license": "BSL-1.1",
@@ -53,8 +53,8 @@
   ],
   "dependencies": {
     "@absolutejs/manifest": "0.3.0",
-    "@absolutejs/vulnerabilities": "0.6.0",
-    "@absolutejs/vulnerabilities-osv": "0.1.3",
+    "@absolutejs/vulnerabilities": ">=0.6.0 <0.8.0",
+    "@absolutejs/vulnerabilities-osv": ">=0.1.4 <0.2.0",
     "@sinclair/typebox": "0.34.52"
   },
   "devDependencies": {
