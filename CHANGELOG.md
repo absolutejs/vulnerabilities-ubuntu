@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.4 - 2026-07-18
+
+- Verify Ubuntu normalization against `@absolutejs/vulnerabilities@0.10.0`
+  and `@absolutejs/vulnerabilities-osv@0.1.6`.
+
 ## 0.1.1 - 2026-07-18
 
 - Upgrade to `@absolutejs/vulnerabilities@0.5.0` and the matching OSV adapter.
